@@ -12,7 +12,7 @@
 ## **INTRODUCTION**
 
 - .Net studying project to practice:
-  - Complex Entities
+  - Complex Data Types in Entities
   - Interfaces
   - Tests with xUnit
 
