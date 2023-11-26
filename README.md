@@ -37,17 +37,17 @@
 ## **STRUCTURE**
 
 >- People
->  - Client
->  - Employee
+>    - Client
+>    - Employee
 
 >- Products
->  - Food
->  - Beverage
+>    - Food
+>    - Beverage
 
 >- Sale
->  - List of products
->  - Client
->  - Employee
+>    - List of products
+>    - Client
+>    - Employee
 ---
 
 ## **FUNCTIONALITIES**
@@ -68,4 +68,4 @@ Since it's a Console application, all the functionalities happen in **Program.cs
 > Managing **Sale**:
 >- In **Program.cs**, instantiate the controllers:
 >    - var sale = new SaleController();
->    - A product, a client and an employee must be instantiated in order to create a sale.
+>- A **product**, a **client** and an **employee** must be instantiated in order to create a sale.
