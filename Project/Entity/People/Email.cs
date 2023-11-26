@@ -1,4 +1,4 @@
-namespace Project.Entity;
+namespace Project.Entity.People;
 
 public class EmailAddress
 {
@@ -10,7 +10,7 @@ public class EmailAddress
 
     public string Email
     {
-        get { return _emailAddress; }
+        get => _emailAddress;
         set
         {
             if (value == null)

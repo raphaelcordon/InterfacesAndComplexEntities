@@ -1,7 +1,7 @@
-using Project.Entity;
+using Project.Entity.People;
 using Xunit;
 
-namespace Test;
+namespace Test.PeopleTest;
 
 public class TestEmail
 {

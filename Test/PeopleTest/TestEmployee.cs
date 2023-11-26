@@ -1,8 +1,8 @@
-using Project.Entity;
-using Project.Enum;
+using Project.Entity.People;
+using Project.Enum.People;
 using Xunit;
 
-namespace Test;
+namespace Test.PeopleTest;
 
 public class TestEmployee
 {

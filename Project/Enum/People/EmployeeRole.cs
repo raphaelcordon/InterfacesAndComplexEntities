@@ -1,4 +1,4 @@
-namespace Project.Enum;
+namespace Project.Enum.People;
 
 public enum EmployeeRole
 {

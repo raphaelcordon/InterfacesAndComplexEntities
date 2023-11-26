@@ -1,4 +1,4 @@
-namespace Project.Entity;
+namespace Project.Entity.People;
 
 public class Client : People
 {

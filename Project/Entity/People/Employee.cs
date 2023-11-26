@@ -1,6 +1,8 @@
 using Project.Enum;
+using Project.Enum.People;
+using Project.Enum.Product;
 
-namespace Project.Entity;
+namespace Project.Entity.People;
 
 public class Employee : People
 {
@@ -9,5 +11,5 @@ public class Employee : People
         EmployeeRole = role;
     }
     
-    public EmployeeRole EmployeeRole { get; set; }
+    public EmployeeRole EmployeeRole { get; }
 }

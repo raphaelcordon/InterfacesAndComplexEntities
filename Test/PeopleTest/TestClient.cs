@@ -1,8 +1,7 @@
-using Project.Entity;
+using Project.Entity.People;
 using Xunit;
-using Xunit.Sdk;
 
-namespace Test;
+namespace Test.PeopleTest;
 
 public class TestClient
 {
